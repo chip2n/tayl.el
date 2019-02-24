@@ -3,7 +3,11 @@ Tayl client for Emacs.
 
 ** Installation
 This package is not yet available on MELPA. Download the source code
-and add it to your =load-path=.
+and add it to your =load-path=, or use [[https://framagit.org/steckerhalter/quelpa][quelpa]]:
+
+#+begin_src emacs-lisp
+(quelpa '(tayl :repo "chip2n/tayl.el" :fetcher github))
+#+end_src
 
 ** Configuration
 Set =tayl-api-token= to your Tayl API token and you're ready to go!
