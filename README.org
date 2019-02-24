@@ -1,5 +1,5 @@
 * tayl.el
-Tayl client for Emacs
+Tayl client for Emacs.
 
 ** Installation
 This package is not yet available on MELPA. Download the source code
